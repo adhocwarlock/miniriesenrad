@@ -1,0 +1,1360 @@
+{
+  "date": "2026-11-04",
+  "constructionStandard": "3 mm plywood",
+  "kernel": "Open CASCADE",
+  "plywoodThicknessMm": 3,
+  "wheelClearGapMm": 72,
+  "mainShaftDiameterMm": 10,
+  "mainShaftLengthMm": 99,
+  "skewerDiameterMm": 3,
+  "skewerLengthMm": 83,
+  "bearings": {
+    "quantity": 2,
+    "boreMm": 10,
+    "outsideDiameterMm": 15,
+    "widthMm": 4,
+    "material": "100Cr6 steel"
+  },
+  "parts": [
+    {
+      "name": "wheeel",
+      "material": "3 mm plywood",
+      "thicknessMm": 3,
+      "volumeMm3": 97754.91388605896,
+      "localBoundsMm": [
+        -151.8186762441221,
+        -151.8186762441221,
+        0.0,
+        151.8186762441221,
+        151.8186762441221,
+        3.0
+      ],
+      "dxfAudit": {
+        "file": "wheeel.DXF",
+        "units": "mm",
+        "scale": "1:1",
+        "entities": {
+          "CIRCLE": 10,
+          "ARC": 232,
+          "LINE": 88
+        },
+        "closedContours": 82,
+        "cutAreaMm2": 32584.97129532835,
+        "openOrBranchedEndpoints": 0,
+        "duplicateCutEntities": 0,
+        "auditErrors": 0
+      }
+    },
+    {
+      "name": "feet",
+      "material": "3 mm plywood",
+      "thicknessMm": 3,
+      "volumeMm3": 34270.604696369744,
+      "localBoundsMm": [
+        -142.8922863406,
+        -205.0,
+        0.0,
+        142.8922863406,
+        34.1379627872,
+        3.0
+      ],
+      "dxfAudit": {
+        "file": "feet.DXF",
+        "units": "mm",
+        "scale": "1:1",
+        "entities": {
+          "LINE": 85,
+          "ARC": 4,
+          "CIRCLE": 1
+        },
+        "closedContours": 17,
+        "cutAreaMm2": 11423.534898793678,
+        "openOrBranchedEndpoints": 0,
+        "duplicateCutEntities": 0,
+        "auditErrors": 0
+      }
+    },
+    {
+      "name": "support",
+      "material": "3 mm plywood",
+      "thicknessMm": 3,
+      "volumeMm3": 3923.2499999999995,
+      "localBoundsMm": [
+        -26.0216417910448,
+        0.2238805970149,
+        0.0,
+        83.0783582089552,
+        12.7238805970149,
+        3.0
+      ],
+      "dxfAudit": {
+        "file": "support.DXF",
+        "units": "mm",
+        "scale": "1:1",
+        "entities": {
+          "LINE": 14
+        },
+        "closedContours": 1,
+        "cutAreaMm2": 1307.75,
+        "openOrBranchedEndpoints": 0,
+        "duplicateCutEntities": 0,
+        "auditErrors": 0
+      }
+    },
+    {
+      "name": "fence",
+      "material": "3 mm plywood",
+      "thicknessMm": 3,
+      "volumeMm3": 6212.5411664736,
+      "localBoundsMm": [
+        -72.1122031986,
+        80.8573530106,
+        0.0,
+        95.8877968014,
+        105.0,
+        3.0
+      ],
+      "dxfAudit": {
+        "file": "fence.DXF",
+        "units": "mm",
+        "scale": "1:1",
+        "entities": {
+          "LINE": 164
+        },
+        "closedContours": 12,
+        "cutAreaMm2": 2070.847055491203,
+        "openOrBranchedEndpoints": 0,
+        "duplicateCutEntities": 0,
+        "auditErrors": 0
+      }
+    },
+    {
+      "name": "gear0",
+      "material": "3 mm plywood",
+      "thicknessMm": 3,
+      "volumeMm3": 8456.151189072503,
+      "localBoundsMm": [
+        -73.35,
+        -73.35,
+        0.0,
+        73.35,
+        73.35,
+        3.0
+      ],
+      "dxfAudit": {
+        "file": "gear0.DXF",
+        "units": "mm",
+        "scale": "1:1",
+        "entities": {
+          "CIRCLE": 1,
+          "ARC": 420,
+          "LINE": 60
+        },
+        "closedContours": 2,
+        "cutAreaMm2": 2818.717063029262,
+        "openOrBranchedEndpoints": 0,
+        "duplicateCutEntities": 0,
+        "auditErrors": 0
+      }
+    },
+    {
+      "name": "21",
+      "material": "3 mm plywood",
+      "thicknessMm": 3,
+      "volumeMm3": 4958.831543087502,
+      "localBoundsMm": [
+        -29.9892725644,
+        -29.85762276671411,
+        0.0,
+        29.988939817970923,
+        30.002568404,
+        3.0
+      ],
+      "dxfAudit": {
+        "file": "21.DXF",
+        "units": "mm",
+        "scale": "1:1",
+        "entities": {
+          "LINE": 44,
+          "ARC": 162
+        },
+        "closedContours": 11,
+        "cutAreaMm2": 1652.9438476968496,
+        "openOrBranchedEndpoints": 0,
+        "duplicateCutEntities": 0,
+        "auditErrors": 0
+      }
+    },
+    {
+      "name": "gear1",
+      "material": "3 mm plywood",
+      "thicknessMm": 3,
+      "volumeMm3": 7250.014376603296,
+      "localBoundsMm": [
+        -29.9892725644,
+        -29.85762276671411,
+        0.0,
+        29.988939817970923,
+        30.002568404,
+        3.0
+      ],
+      "dxfAudit": {
+        "file": "gear1.DXF",
+        "units": "mm",
+        "scale": "1:1",
+        "entities": {
+          "ARC": 126,
+          "LINE": 26
+        },
+        "closedContours": 2,
+        "cutAreaMm2": 2416.6714588683103,
+        "openOrBranchedEndpoints": 0,
+        "duplicateCutEntities": 0,
+        "auditErrors": 0
+      }
+    },
+    {
+      "name": "tree_front_3mm",
+      "material": "3 mm plywood",
+      "thicknessMm": 3,
+      "volumeMm3": 3813.40593437343,
+      "localBoundsMm": [
+        -14.0,
+        -49.5727727106,
+        0.0,
+        14.0,
+        30.4272272894,
+        3.0
+      ],
+      "dxfAudit": {
+        "file": "tree_front_3mm.DXF",
+        "units": "mm",
+        "scale": "1:1",
+        "entities": {
+          "LINE": 51,
+          "CIRCLE": 3
+        },
+        "closedContours": 11,
+        "cutAreaMm2": 1271.1353114578103,
+        "openOrBranchedEndpoints": 0,
+        "duplicateCutEntities": 0,
+        "auditErrors": 0
+      }
+    },
+    {
+      "name": "tree_rear_3mm",
+      "material": "3 mm plywood",
+      "thicknessMm": 3,
+      "volumeMm3": 3694.289999999998,
+      "localBoundsMm": [
+        -14.0,
+        -49.5727727106,
+        0.0,
+        14.0,
+        30.4272272894,
+        3.0
+      ],
+      "dxfAudit": {
+        "file": "tree_rear_3mm.DXF",
+        "units": "mm",
+        "scale": "1:1",
+        "entities": {
+          "LINE": 55
+        },
+        "closedContours": 9,
+        "cutAreaMm2": 1231.43,
+        "openOrBranchedEndpoints": 0,
+        "duplicateCutEntities": 0,
+        "auditErrors": 0
+      }
+    },
+    {
+      "name": "tree_side_3mm",
+      "material": "3 mm plywood",
+      "thicknessMm": 3,
+      "volumeMm3": 3507.264,
+      "localBoundsMm": [
+        -3.0,
+        -42.4,
+        0.0,
+        33.5,
+        6.2,
+        3.0
+      ],
+      "dxfAudit": {
+        "file": "tree_side_3mm.DXF",
+        "units": "mm",
+        "scale": "1:1",
+        "entities": {
+          "LINE": 40
+        },
+        "closedContours": 3,
+        "cutAreaMm2": 1169.0880000000002,
+        "openOrBranchedEndpoints": 0,
+        "duplicateCutEntities": 0,
+        "auditErrors": 0
+      }
+    },
+    {
+      "name": "tree_brace_3mm",
+      "material": "3 mm plywood",
+      "thicknessMm": 3,
+      "volumeMm3": 1583.5500000000002,
+      "localBoundsMm": [
+        -3.0,
+        -8.85,
+        0.0,
+        33.5,
+        8.85,
+        3.0
+      ],
+      "dxfAudit": {
+        "file": "tree_brace_3mm.DXF",
+        "units": "mm",
+        "scale": "1:1",
+        "entities": {
+          "LINE": 20
+        },
+        "closedContours": 1,
+        "cutAreaMm2": 527.8499999999999,
+        "openOrBranchedEndpoints": 0,
+        "duplicateCutEntities": 0,
+        "auditErrors": 0
+      }
+    },
+    {
+      "name": "bearing_collar_3mm",
+      "material": "3 mm plywood",
+      "thicknessMm": 3,
+      "volumeMm3": 819.9321206420341,
+      "localBoundsMm": [
+        -12.0,
+        -12.0,
+        0.0,
+        12.0,
+        12.0,
+        3.0
+      ],
+      "dxfAudit": {
+        "file": "bearing_collar_3mm.DXF",
+        "units": "mm",
+        "scale": "1:1",
+        "entities": {
+          "CIRCLE": 2
+        },
+        "closedContours": 2,
+        "cutAreaMm2": 273.310706880678,
+        "openOrBranchedEndpoints": 0,
+        "duplicateCutEntities": 0,
+        "auditErrors": 0
+      }
+    },
+    {
+      "name": "motor_N20_3mm_Dshaft",
+      "material": "Purchased N20 gearmotor; reference envelope from supplied drawing",
+      "volumeMm3": 2827.614472540031,
+      "localBoundsMm": [
+        -5.0,
+        -6.0,
+        -10.0,
+        5.0,
+        6.0,
+        27.7
+      ]
+    },
+    {
+      "name": "M1p6x5_envelope",
+      "material": "Purchased M1.6 x 5 screw; simplified unthreaded envelope",
+      "volumeMm3": 18.535396656179778,
+      "localBoundsMm": [
+        -1.5,
+        -1.5,
+        -1.2,
+        1.5,
+        1.5,
+        5.0
+      ]
+    }
+  ],
+  "components": [
+    {
+      "name": "wheel-1",
+      "part": "wheeel",
+      "rotation": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0
+      ],
+      "positionMm": [
+        0,
+        0,
+        0
+      ],
+      "kind": "plywood",
+      "boundsMm": [
+        0.0,
+        -151.8186762441221,
+        -151.8186762441221,
+        3.0,
+        151.8186762441221,
+        151.8186762441221
+      ]
+    },
+    {
+      "name": "wheel-2",
+      "part": "wheeel",
+      "rotation": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0
+      ],
+      "positionMm": [
+        75,
+        0,
+        0
+      ],
+      "kind": "plywood",
+      "boundsMm": [
+        75.0,
+        -151.8186762441221,
+        -151.8186762441221,
+        78.0,
+        151.8186762441221,
+        151.8186762441221
+      ]
+    },
+    {
+      "name": "drive-leg",
+      "part": "feet",
+      "rotation": [
+        0,
+        -1,
+        0,
+        0,
+        0,
+        1,
+        -1,
+        0,
+        0
+      ],
+      "positionMm": [
+        94,
+        0,
+        0
+      ],
+      "kind": "plywood",
+      "boundsMm": [
+        91.0,
+        -142.8922863406,
+        -205.0,
+        94.0,
+        142.8922863406,
+        34.1379627872
+      ]
+    },
+    {
+      "name": "opposite-leg",
+      "part": "feet",
+      "rotation": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0
+      ],
+      "positionMm": [
+        -5,
+        0,
+        0
+      ],
+      "kind": "plywood",
+      "boundsMm": [
+        -5.0,
+        -142.8922863406,
+        -205.0,
+        -2.0,
+        142.8922863406,
+        34.1379627872
+      ]
+    },
+    {
+      "name": "brace-1",
+      "part": "support",
+      "rotation": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        -1,
+        0
+      ],
+      "positionMm": [
+        16.0216417910448,
+        -124.8922863406,
+        -205.2238805970149
+      ],
+      "kind": "plywood",
+      "boundsMm": [
+        -10.0,
+        -127.8922863406,
+        -205.0,
+        99.1,
+        -124.8922863406,
+        -192.5
+      ]
+    },
+    {
+      "name": "brace-2",
+      "part": "support",
+      "rotation": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        -1,
+        0
+      ],
+      "positionMm": [
+        15.9216417910448,
+        127.8922863406,
+        -205.2238805970149
+      ],
+      "kind": "plywood",
+      "boundsMm": [
+        -10.100000000000001,
+        124.8922863406,
+        -205.0,
+        99.0,
+        127.8922863406,
+        -192.5
+      ]
+    },
+    {
+      "name": "ring-gear",
+      "part": "gear0",
+      "rotation": [
+        0,
+        0.6091568589158012,
+        0.7930497596215731,
+        0,
+        -0.7930497596215731,
+        0.6091568589158012,
+        1,
+        0,
+        0
+      ],
+      "positionMm": [
+        78,
+        0,
+        0
+      ],
+      "kind": "plywood",
+      "boundsMm": [
+        78.0,
+        -73.35,
+        -73.35,
+        81.0,
+        73.35,
+        73.35
+      ]
+    },
+    {
+      "name": "pinion",
+      "part": "21",
+      "rotation": [
+        -2.8257824428956964e-17,
+        -1,
+        -2.220446049250313e-16,
+        -1.571245680740764e-16,
+        -2.220446049250313e-16,
+        1,
+        -1,
+        2.8257824428956964e-17,
+        -1.571245680740764e-16
+      ],
+      "positionMm": [
+        81,
+        0,
+        -38.73852628620773
+      ],
+      "kind": "plywood",
+      "boundsMm": [
+        78.0,
+        -29.98893981797092,
+        -68.59614905292185,
+        81.0,
+        29.9892725644,
+        -8.735957882207728
+      ]
+    },
+    {
+      "name": "main-shaft",
+      "part": "main_shaft_10mm",
+      "rotation": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0
+      ],
+      "positionMm": [
+        -5,
+        0,
+        0
+      ],
+      "kind": "hardware",
+      "boundsMm": [
+        -5.0,
+        -5.0,
+        -5.0,
+        94.0,
+        5.0,
+        5.0
+      ]
+    },
+    {
+      "name": "bearing-left",
+      "part": "bearing_10x15x4",
+      "rotation": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0
+      ],
+      "positionMm": [
+        0,
+        0,
+        0
+      ],
+      "kind": "hardware",
+      "boundsMm": [
+        0.0,
+        -7.5,
+        -7.5,
+        4.0,
+        7.5,
+        7.5
+      ]
+    },
+    {
+      "name": "bearing-right",
+      "part": "bearing_10x15x4",
+      "rotation": [
+        0,
+        -1,
+        0,
+        0,
+        0,
+        1,
+        -1,
+        0,
+        0
+      ],
+      "positionMm": [
+        78,
+        0,
+        0
+      ],
+      "kind": "hardware",
+      "boundsMm": [
+        74.0,
+        -7.5,
+        -7.5,
+        78.0,
+        7.5,
+        7.5
+      ]
+    },
+    {
+      "name": "bearing-collar-left",
+      "part": "bearing_collar_3mm",
+      "rotation": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0
+      ],
+      "positionMm": [
+        3,
+        0,
+        0
+      ],
+      "kind": "plywood",
+      "boundsMm": [
+        3.0,
+        -12.0,
+        -12.0,
+        6.0,
+        12.0,
+        12.0
+      ]
+    },
+    {
+      "name": "bearing-collar-right",
+      "part": "bearing_collar_3mm",
+      "rotation": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0
+      ],
+      "positionMm": [
+        72,
+        0,
+        0
+      ],
+      "kind": "plywood",
+      "boundsMm": [
+        72.0,
+        -12.0,
+        -12.0,
+        75.0,
+        12.0,
+        12.0
+      ]
+    },
+    {
+      "name": "tree-front",
+      "part": "tree_front_3mm",
+      "rotation": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0
+      ],
+      "positionMm": [
+        85.5,
+        0,
+        -38.73852628620773
+      ],
+      "kind": "plywood",
+      "boundsMm": [
+        85.5,
+        -14.0,
+        -88.31129899680772,
+        88.5,
+        14.0,
+        -8.311298996807729
+      ]
+    },
+    {
+      "name": "tree-rear",
+      "part": "tree_rear_3mm",
+      "rotation": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0
+      ],
+      "positionMm": [
+        119,
+        0,
+        -38.73852628620773
+      ],
+      "kind": "plywood",
+      "boundsMm": [
+        119.0,
+        -14.0,
+        -88.31129899680772,
+        122.0,
+        14.0,
+        -8.311298996807729
+      ]
+    },
+    {
+      "name": "tree-side-left",
+      "part": "tree_side_3mm",
+      "rotation": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        -1,
+        0
+      ],
+      "positionMm": [
+        88.5,
+        -5.85,
+        -38.73852628620773
+      ],
+      "kind": "plywood",
+      "boundsMm": [
+        85.5,
+        -8.85,
+        -81.13852628620774,
+        122.0,
+        -5.85,
+        -32.53852628620773
+      ]
+    },
+    {
+      "name": "tree-side-right",
+      "part": "tree_side_3mm",
+      "rotation": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        -1,
+        0
+      ],
+      "positionMm": [
+        88.5,
+        8.85,
+        -38.73852628620773
+      ],
+      "kind": "plywood",
+      "boundsMm": [
+        85.5,
+        5.85,
+        -81.13852628620774,
+        122.0,
+        8.85,
+        -32.53852628620773
+      ]
+    },
+    {
+      "name": "tree-brace",
+      "part": "tree_brace_3mm",
+      "rotation": [
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1
+      ],
+      "positionMm": [
+        88.5,
+        0,
+        -50.23852628620773
+      ],
+      "kind": "plywood",
+      "boundsMm": [
+        85.5,
+        -8.85,
+        -50.23852628620773,
+        122.0,
+        8.85,
+        -47.23852628620773
+      ]
+    },
+    {
+      "name": "N20-motor",
+      "part": "motor_N20_3mm_Dshaft",
+      "rotation": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0
+      ],
+      "positionMm": [
+        88.5,
+        0,
+        -38.73852628620773
+      ],
+      "kind": "hardware",
+      "boundsMm": [
+        78.5,
+        -5.0,
+        -44.73852628620773,
+        116.2,
+        5.0,
+        -32.73852628620773
+      ]
+    },
+    {
+      "name": "M1.6x5--1",
+      "part": "M1p6x5_envelope",
+      "rotation": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0
+      ],
+      "positionMm": [
+        85.5,
+        0,
+        -43.23852628620773
+      ],
+      "kind": "hardware",
+      "boundsMm": [
+        84.3,
+        -1.5,
+        -44.73852628620773,
+        90.5,
+        1.5,
+        -41.73852628620773
+      ]
+    },
+    {
+      "name": "M1.6x5-1",
+      "part": "M1p6x5_envelope",
+      "rotation": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0
+      ],
+      "positionMm": [
+        85.5,
+        0,
+        -34.23852628620773
+      ],
+      "kind": "hardware",
+      "boundsMm": [
+        84.3,
+        -1.5,
+        -35.73852628620773,
+        90.5,
+        1.5,
+        -32.73852628620773
+      ]
+    },
+    {
+      "name": "skewer-1",
+      "part": "bamboo_skewer_3mm",
+      "rotation": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0
+      ],
+      "positionMm": [
+        -1,
+        119.620081399,
+        0.0
+      ],
+      "kind": "hardware",
+      "boundsMm": [
+        -1.0,
+        118.120081399,
+        -1.5,
+        82.0,
+        121.120081399,
+        1.5
+      ]
+    },
+    {
+      "name": "skewer-2",
+      "part": "bamboo_skewer_3mm",
+      "rotation": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0
+      ],
+      "positionMm": [
+        -1,
+        84.5841707233197,
+        84.5841707233197
+      ],
+      "kind": "hardware",
+      "boundsMm": [
+        -1.0,
+        83.0841707233197,
+        83.0841707233197,
+        82.0,
+        86.0841707233197,
+        86.0841707233197
+      ]
+    },
+    {
+      "name": "skewer-3",
+      "part": "bamboo_skewer_3mm",
+      "rotation": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0
+      ],
+      "positionMm": [
+        -1,
+        7.32461748995156e-15,
+        119.620081399
+      ],
+      "kind": "hardware",
+      "boundsMm": [
+        -1.0,
+        -1.4999999999999927,
+        118.120081399,
+        82.0,
+        1.5000000000000073,
+        121.120081399
+      ]
+    },
+    {
+      "name": "skewer-4",
+      "part": "bamboo_skewer_3mm",
+      "rotation": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0
+      ],
+      "positionMm": [
+        -1,
+        -84.58417072331969,
+        84.5841707233197
+      ],
+      "kind": "hardware",
+      "boundsMm": [
+        -1.0,
+        -86.08417072331969,
+        83.0841707233197,
+        82.0,
+        -83.08417072331969,
+        86.0841707233197
+      ]
+    },
+    {
+      "name": "skewer-5",
+      "part": "bamboo_skewer_3mm",
+      "rotation": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0
+      ],
+      "positionMm": [
+        -1,
+        -119.620081399,
+        1.464923497990312e-14
+      ],
+      "kind": "hardware",
+      "boundsMm": [
+        -1.0,
+        -121.120081399,
+        -1.4999999999999853,
+        82.0,
+        -118.120081399,
+        1.5000000000000147
+      ]
+    },
+    {
+      "name": "skewer-6",
+      "part": "bamboo_skewer_3mm",
+      "rotation": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0
+      ],
+      "positionMm": [
+        -1,
+        -84.58417072331972,
+        -84.58417072331969
+      ],
+      "kind": "hardware",
+      "boundsMm": [
+        -1.0,
+        -86.08417072331972,
+        -86.08417072331969,
+        82.0,
+        -83.08417072331972,
+        -83.08417072331969
+      ]
+    },
+    {
+      "name": "skewer-7",
+      "part": "bamboo_skewer_3mm",
+      "rotation": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0
+      ],
+      "positionMm": [
+        -1,
+        -2.1973852469854678e-14,
+        -119.620081399
+      ],
+      "kind": "hardware",
+      "boundsMm": [
+        -1.0,
+        -1.500000000000022,
+        -121.120081399,
+        82.0,
+        1.499999999999978,
+        -118.120081399
+      ]
+    },
+    {
+      "name": "skewer-8",
+      "part": "bamboo_skewer_3mm",
+      "rotation": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0
+      ],
+      "positionMm": [
+        -1,
+        84.58417072331967,
+        -84.58417072331972
+      ],
+      "kind": "hardware",
+      "boundsMm": [
+        -1.0,
+        83.08417072331967,
+        -86.08417072331972,
+        82.0,
+        86.08417072331967,
+        -83.08417072331972
+      ]
+    },
+    {
+      "name": "cardboard-gondola-1",
+      "part": "cardboard-gondola-1",
+      "rotation": [
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1
+      ],
+      "positionMm": [
+        0,
+        0,
+        0
+      ],
+      "kind": "cardboard",
+      "boundsMm": [
+        12.999999999999996,
+        -121.93366187029692,
+        10.40444144109519,
+        68.0,
+        -46.64357001906176,
+        93.740622121825
+      ]
+    },
+    {
+      "name": "cardboard-gondola-2",
+      "part": "cardboard-gondola-2",
+      "rotation": [
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1
+      ],
+      "positionMm": [
+        0,
+        0,
+        0
+      ],
+      "kind": "cardboard",
+      "boundsMm": [
+        12.999999999999993,
+        -39.714311440064016,
+        44.74755714297022,
+        68.0,
+        36.71725241397216,
+        129.40861325624195
+      ]
+    },
+    {
+      "name": "cardboard-gondola-3",
+      "part": "cardboard-gondola-3",
+      "rotation": [
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1
+      ],
+      "positionMm": [
+        0,
+        0,
+        0
+      ],
+      "kind": "cardboard",
+      "boundsMm": [
+        12.999999999999995,
+        -36.6399531004376,
+        -194.57086548257695,
+        68.0,
+        39.92318127184349,
+        -109.75687229639487
+      ]
+    },
+    {
+      "name": "cardboard-gondola-4",
+      "part": "cardboard-gondola-4",
+      "rotation": [
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1
+      ],
+      "positionMm": [
+        0,
+        0,
+        0
+      ],
+      "kind": "cardboard",
+      "boundsMm": [
+        12.999999999999993,
+        85.49564010171662,
+        -76.87876991811332,
+        68.0,
+        165.5731664258821,
+        12.043438519163715
+      ]
+    }
+  ],
+  "staticBoundingBoxCandidatesTested": 57,
+  "staticInterferences": [],
+  "nativeSolidWorksStatus": "complete; both native assemblies rebuilt with 33 resolved components and zero static interferences",
+  "limitations": [
+    "Static geometry checks only; no loaded full-rotation, force, or motor torque simulation.",
+    "Cardboard envelopes are approximate, reused from the native assembly.",
+    "Bamboo and actual plywood thickness require a physical fit check."
+  ],
+  "nativeValidation": "validation/native-cad-3mm.json",
+  "deliveredSTEPExporter": "SolidWorks 2025",
+  "nativeMaterialStandardRecordedIn": "AGENTS.md and design/materials.json",
+  "deliveredStepReimport": {
+    "format": "STEP",
+    "exporter": "SolidWorks 2025",
+    "reimportKernel": "Open CASCADE",
+    "validSolidCount": 33,
+    "expectedSolidCount": 33,
+    "totalVolumeMm3": 1348152.4596789337,
+    "expectedNativeVolumeMm3": 1348152.4654416598,
+    "volumeDifferenceMm3": -0.005762726068496704,
+    "passed": true
+  }
+}

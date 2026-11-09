@@ -1,0 +1,17 @@
+{
+  "date": "2026-11-04",
+  "solidWorks": {
+    "mainAssembly": "solid_3mm/Assem1.SLDASM",
+    "mainInterferences": [],
+    "alternateAssembly": "solid_3mm/Assem1 - Copy.SLDASM",
+    "alternateInterferences": [],
+    "treatCoincidenceAsInterference": false,
+    "ignoreHiddenBodies": false
+  },
+  "independentOpenCascade": {
+    "boundingBoxCandidatePairsTested": 57,
+    "positiveVolumeThresholdMm3": 0.001,
+    "interferences": []
+  },
+  "limitation": "Static geometry only; no loaded rotation, force, or flexible-cardboard simulation."
+}

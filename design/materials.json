@@ -1,0 +1,22 @@
+{
+  "units": "mm",
+  "plywood_thickness": 3.0,
+  "nominal_tab_slot_clearance": 0.1,
+  "clear_distance_between_main_wheels": 72.0,
+  "bamboo_skewer_diameter": 3.0,
+  "bamboo_skewer_cut_length": 83.0,
+  "main_axle_diameter": 10.0,
+  "main_axle_cut_length": 99.0,
+  "bearing": {
+    "quantity": 2,
+    "bore": 10.0,
+    "outside_diameter": 15.0,
+    "width": 4.0,
+    "material": "100Cr6 steel",
+    "nominal_seat_diameter": 15.1
+  },
+  "motor": "Purchased GA12/N20; envelope based on motor/61cDM3ChHQL._SL1200_.jpg",
+  "supersedes": "Earlier 3.5 mm plywood revision and upstream 4 mm sheet construction",
+  "native_model_directory": "solid_3mm",
+  "main_plywood_piece_count": 15
+}

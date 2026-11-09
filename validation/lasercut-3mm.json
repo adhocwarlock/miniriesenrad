@@ -1,0 +1,210 @@
+{
+  "date": "2026-11-04",
+  "plywoodThicknessMm": 3,
+  "profiles": [
+    {
+      "file": "wheeel.DXF",
+      "units": "mm",
+      "scale": "1:1",
+      "entities": {
+        "CIRCLE": 10,
+        "ARC": 232,
+        "LINE": 88
+      },
+      "closedContours": 82,
+      "cutAreaMm2": 32584.97129094594,
+      "openOrBranchedEndpoints": 0,
+      "duplicateCutEntities": 0,
+      "auditErrors": 0,
+      "plywoodThicknessMm": 3,
+      "nativeVolumeMm3": 97754.91395766518,
+      "volumeAreaCheckPassed": true
+    },
+    {
+      "file": "feet.DXF",
+      "units": "mm",
+      "scale": "1:1",
+      "entities": {
+        "CIRCLE": 1,
+        "LINE": 85,
+        "ARC": 4
+      },
+      "closedContours": 17,
+      "cutAreaMm2": 11423.534898782098,
+      "openOrBranchedEndpoints": 0,
+      "duplicateCutEntities": 0,
+      "auditErrors": 0,
+      "plywoodThicknessMm": 3,
+      "nativeVolumeMm3": 34270.604696330134,
+      "volumeAreaCheckPassed": true
+    },
+    {
+      "file": "support.DXF",
+      "units": "mm",
+      "scale": "1:1",
+      "entities": {
+        "LINE": 14
+      },
+      "closedContours": 1,
+      "cutAreaMm2": 1307.7500000000002,
+      "openOrBranchedEndpoints": 0,
+      "duplicateCutEntities": 0,
+      "auditErrors": 0,
+      "plywoodThicknessMm": 3,
+      "nativeVolumeMm3": 3923.250000000066,
+      "volumeAreaCheckPassed": true
+    },
+    {
+      "file": "fence.DXF",
+      "units": "mm",
+      "scale": "1:1",
+      "entities": {
+        "LINE": 164
+      },
+      "closedContours": 12,
+      "cutAreaMm2": 2070.847055491203,
+      "openOrBranchedEndpoints": 0,
+      "duplicateCutEntities": 0,
+      "auditErrors": 0,
+      "plywoodThicknessMm": 3,
+      "nativeVolumeMm3": 6212.541166478997,
+      "volumeAreaCheckPassed": true
+    },
+    {
+      "file": "gear0.DXF",
+      "units": "mm",
+      "scale": "1:1",
+      "entities": {
+        "CIRCLE": 1,
+        "ARC": 420,
+        "LINE": 60
+      },
+      "closedContours": 2,
+      "cutAreaMm2": 2818.717063029253,
+      "openOrBranchedEndpoints": 0,
+      "duplicateCutEntities": 0,
+      "auditErrors": 0,
+      "plywoodThicknessMm": 3,
+      "nativeVolumeMm3": 8456.151189225204,
+      "volumeAreaCheckPassed": true
+    },
+    {
+      "file": "21.DXF",
+      "units": "mm",
+      "scale": "1:1",
+      "entities": {
+        "LINE": 44,
+        "ARC": 162
+      },
+      "closedContours": 11,
+      "cutAreaMm2": 1652.9438476968494,
+      "openOrBranchedEndpoints": 0,
+      "duplicateCutEntities": 0,
+      "auditErrors": 0,
+      "plywoodThicknessMm": 3,
+      "nativeVolumeMm3": 4958.831543076668,
+      "volumeAreaCheckPassed": true
+    },
+    {
+      "file": "gear1.DXF",
+      "units": "mm",
+      "scale": "1:1",
+      "entities": {
+        "ARC": 126,
+        "LINE": 26
+      },
+      "closedContours": 2,
+      "cutAreaMm2": 2416.6714588683103,
+      "openOrBranchedEndpoints": 0,
+      "duplicateCutEntities": 0,
+      "auditErrors": 0,
+      "plywoodThicknessMm": 3,
+      "nativeVolumeMm3": 7250.014376582386,
+      "volumeAreaCheckPassed": true
+    },
+    {
+      "file": "tree_front_3mm.DXF",
+      "units": "mm",
+      "scale": "1:1",
+      "entities": {
+        "LINE": 51,
+        "CIRCLE": 3
+      },
+      "closedContours": 11,
+      "cutAreaMm2": 1271.13531145781,
+      "openOrBranchedEndpoints": 0,
+      "duplicateCutEntities": 0,
+      "auditErrors": 0,
+      "plywoodThicknessMm": 3,
+      "nativeVolumeMm3": 3813.4059343734307,
+      "volumeAreaCheckPassed": true
+    },
+    {
+      "file": "tree_rear_3mm.DXF",
+      "units": "mm",
+      "scale": "1:1",
+      "entities": {
+        "LINE": 55
+      },
+      "closedContours": 9,
+      "cutAreaMm2": 1231.4300000000003,
+      "openOrBranchedEndpoints": 0,
+      "duplicateCutEntities": 0,
+      "auditErrors": 0,
+      "plywoodThicknessMm": 3,
+      "nativeVolumeMm3": 3694.289999999999,
+      "volumeAreaCheckPassed": true
+    },
+    {
+      "file": "tree_side_3mm.DXF",
+      "units": "mm",
+      "scale": "1:1",
+      "entities": {
+        "LINE": 40
+      },
+      "closedContours": 3,
+      "cutAreaMm2": 1169.0880000000002,
+      "openOrBranchedEndpoints": 0,
+      "duplicateCutEntities": 0,
+      "auditErrors": 0,
+      "plywoodThicknessMm": 3,
+      "nativeVolumeMm3": 3507.2639999999988,
+      "volumeAreaCheckPassed": true
+    },
+    {
+      "file": "tree_brace_3mm.DXF",
+      "units": "mm",
+      "scale": "1:1",
+      "entities": {
+        "LINE": 20
+      },
+      "closedContours": 1,
+      "cutAreaMm2": 527.8499999999999,
+      "openOrBranchedEndpoints": 0,
+      "duplicateCutEntities": 0,
+      "auditErrors": 0,
+      "plywoodThicknessMm": 3,
+      "nativeVolumeMm3": 1583.55,
+      "volumeAreaCheckPassed": true
+    },
+    {
+      "file": "bearing_collar_3mm.DXF",
+      "units": "mm",
+      "scale": "1:1",
+      "entities": {
+        "CIRCLE": 2
+      },
+      "closedContours": 2,
+      "cutAreaMm2": 273.310706880678,
+      "openOrBranchedEndpoints": 0,
+      "duplicateCutEntities": 0,
+      "auditErrors": 0,
+      "plywoodThicknessMm": 3,
+      "nativeVolumeMm3": 819.9321206420341,
+      "volumeAreaCheckPassed": true
+    }
+  ],
+  "excludedOriginalFiles": [
+    "stift.DXF: unused upstream flat-pin alternative"
+  ]
+}
