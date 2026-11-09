@@ -1,0 +1,14 @@
+# SolidWorks lock files are temporary and machine-specific.
+~$*
+
+# Python-generated files.
+__pycache__/
+*.py[cod]
+
+# Local credentials and private song inputs/outputs.
+.env
+.env.*
+!.env.example
+/firmware/chiptunes/private/
+/firmware/songs/
+/chiptune-demos/
